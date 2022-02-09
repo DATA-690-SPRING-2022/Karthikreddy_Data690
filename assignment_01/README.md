@@ -5,25 +5,25 @@
 # Email : karthikr2299@gmail.com
 
 
-# Career Objective:
+## Career Objective:
 
 •	To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.
 
 •To excel in my field through hard work, research, skills and perseverance.
 
-# Educational Qualifications:
+## Educational Qualifications:
 
-B.Technology 
-(Computer Science Engineering)	Geethanjali College of Engineering and Technology (GCET)	
+- B.Technology 
+- (Computer Science Engineering)	Geethanjali College of Engineering and Technology (GCET)	
 
-Jawaharlal Nehru Technological University, Hyderabad (2016-2020)	
+- Jawaharlal Nehru Technological University, Hyderabad (2016-2020)	
 7.69 (CGPA)
 
-Intermediate-Sri Chaitanya Junior College, (Madhapur)	Board of Intermediate Education	(2014-2016) Percentage-94.3%
+- Intermediate-Sri Chaitanya Junior College, (Madhapur)	Board of Intermediate Education	(2014-2016) Percentage-94.3%
 
-Class X	Indus Universal School	Central Board of Secondary Education (CBSE)	(2013-2014) CGPA-9.0
+- Class X	Indus Universal School	Central Board of Secondary Education (CBSE)	(2013-2014) CGPA-9.0
 
-# Technical Skills:
+## Technical Skills:
 •	Programming Languages       : MS Office, C, Java, Python. 
 
 •	Database concepts           :  MYSQL.
@@ -36,11 +36,11 @@ Class X	Indus Universal School	Central Board of Secondary Education (CBSE)	(2013
 
 # Academic Projects:
 
-•	Title : Audio Fingerprinting and Recognition 
+*	Title : Audio Fingerprinting and Recognition 
 
 Description: The project designed here is to automatically identify the file that contains the fragment in a large library potentially consisting of many audio files from a given short audio fragment as a query. 
 
-•	Title : Smart home Automated Control System
+*	Title : Smart home Automated Control System
 
 Description: The project work demonstrates a system that can be integrated as a single portable unit allows one to wirelessly control lights, fans, air conditioners, TV, computer systems, an audio, video equipment’s etc.  
 
