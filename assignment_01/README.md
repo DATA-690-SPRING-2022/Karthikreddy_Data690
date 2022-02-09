@@ -1,4 +1,4 @@
-![Photo](Photo.JPG)
+![Photo](Photo.jpg)
 # Singireddy Karthik Reddy
 
 # Contact no : +1-754-667-9663 
