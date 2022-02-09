@@ -7,83 +7,86 @@
 
 ## Career Objective:
 
-•	To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.
+-	To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.
 
-•To excel in my field through hard work, research, skills and perseverance.
+- To excel in my field through hard work, research, skills and perseverance.
 
 ## Educational Qualifications:
 
-- B.Technology 
+- Bachelors of Technology in, 
 - (Computer Science Engineering)	Geethanjali College of Engineering and Technology (GCET)	
 
 - Jawaharlal Nehru Technological University, Hyderabad (2016-2020)	
-7.69 (CGPA)
+  CGPA - 7.69
+  
+- Intermediate : Sri Chaitanya Junior College, Board of Intermediate Education (2014-2016), Percentage - 94.3%
 
-- Intermediate-Sri Chaitanya Junior College, (Madhapur)	Board of Intermediate Education	(2014-2016) Percentage-94.3%
-
-- Class X	Indus Universal School	Central Board of Secondary Education (CBSE)	(2013-2014) CGPA-9.0
+- Class X :	Indus Universal School, Central Board of Secondary Education (CBSE)	(2013-2014), CGPA - 9.0
 
 ## Technical Skills:
-•	Programming Languages       : MS Office, C, Java, Python. 
 
-•	Database concepts           :  MYSQL.
+-	Programming Languages       : MS Office, C, Java, Python. 
 
-•	Web Technologies            : HTML, CSS, PHP, JSP.
+-	Database concepts           : MYSQL.
 
-•	Operating Systems           : Windows 8,Windows 10,Linux(Ubuntu)
+-	Web Technologies            : HTML, CSS, PHP, JSP.
 
-•	Software Tools known         : Eclipse IDE, Putty.
+-	Operating Systems           : Windows 8, Windows 10, Linux(Ubuntu)
+
+-	Software Tools known        : Eclipse IDE, Putty.
 
 # Academic Projects:
 
-*	Title : Audio Fingerprinting and Recognition 
+> Title : Audio Fingerprinting and Recognition 
 
 Description: The project designed here is to automatically identify the file that contains the fragment in a large library potentially consisting of many audio files from a given short audio fragment as a query. 
 
-*	Title : Smart home Automated Control System
+> Title : Smart home Automated Control System
 
 Description: The project work demonstrates a system that can be integrated as a single portable unit allows one to wirelessly control lights, fans, air conditioners, TV, computer systems, an audio, video equipment’s etc.  
 
 
 
 # Achievements:
-•	Internship at ECIL on Mobile Application Development. 
 
-•	Internship at Wissen Infotech on Computer Networking.
+-	Internship at ECIL on Mobile Application Development. 
 
-•	Volunteered for the launch of research and development centre in AI & Robotics field.
+-	Internship at Wissen Infotech on Computer Networking.
 
-•	Participated in coding & decoding at BHASWARA, a national level technical fest organized by Geethanjali College of Engineering and Technology. 
+-	Volunteered for the launch of research and development centre in AI & Robotics field.
 
-•	Coordinated the main college fest “VIBGYOR”, a national level cultural festival.
+-	Participated in coding & decoding at BHASWARA, a national level technical fest organized by Geethanjali College of Engineering and Technology. 
+
+-	Coordinated the main college fest “VIBGYOR”, a national level cultural festival.
 
 
 # Extra-Curricular Activities: 
 
-•	Participated in ENIGMA at BITS 
+*	Participated in ENIGMA at BITS 
 
-•	Participated in OPEN MIC at GCET
+*	Participated in OPEN MIC at GCET
 
-•	Participated in Robotics Workshop conducted by Roboversity.
+*	Participated in Robotics Workshop conducted by Roboversity.
 
-•	Participated in Roboveda-2018 at SNIST.
+*	Participated in Roboveda-2018 at SNIST.
 
 # Personal Profile:
-Name              : Singireddy Karthik Reddy
 
-Father’s Name     : Singireddy Mahipal Reddy
+* Name               : Singireddy Karthik Reddy
 
-Date of Birth     : 12 May 1999
+* Father’s Name      : Singireddy Mahipal Reddy
 
-Gender            : Male
+* Date of Birth      : 12 May 1999
 
-Nationality       : Indian
+* Gender             : Male
 
-Languages known: English, Telugu, Hindi
+* Nationality        : Indian
 
-Hobbies            : Playing Drums, Painting, Playing Cricket, Football, Badminton, Social service.
+* Languages known    : English, Telugu, Hindi
+
+* Hobbies            : Playing Drums, Painting, Playing Cricket, Football, Badminton, Social service.
 
 # Declaration:
 
-I hereby declare that the above furnishe
+- I hereby declare that the above furnishe
 
