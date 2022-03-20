@@ -76,11 +76,12 @@
 ![](correlation.png)
 - Correlation analysis is a method of statistical evaluation used to study the strength of a relationship between two, or more numerically measured, continuous variables. This particular type of analysis is useful when a researcher wants to establish if there are possible connections between variables.
 - In the above graph we have the correlation analysis of all the countries from the Sub-saharan Africa region. We have compared the total population with that of the total umemployed population. We could notice several possible connections between the variables. In the top most layer we could plot Eswatini, Lesotho, and South Africa with highest umemployment rate of approximately 25% and total population percentage lying between 55 to 65. The OLS trendline has gradually increased from 3% of unemployment rate ending at 20%, and total population percentage starting at 47, ending at 70. In the bottom most layer we could plot Chad, Madagascar, and Rwanda with the least unemployment rate of about 1%. Mauritius has the highest population percentage of 70% with the unemployment rate of 7%. Congo, Dem. Rep. has the highest literacy rate of 83% between the age of 15 to 24. Ghana has the highest government expenditure on education of 37%. 
-**2012 Population ages 15-64 (% of total population): 
+- 
+**2012 Population ages 15-64 (% of total population):**
 
 ![](map.png)
 
-**School age population, secondary education, both sexes(number): 
+**School age population, secondary education, both sexes(number):**
 
 ![](population.png)
 - As we follow the bar graph, Nigeria has the highest population of secondary schooling with 21.6 million students. 
