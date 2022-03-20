@@ -1,13 +1,23 @@
-# Individual Project Part-A Draft
+# Individual Project Part-A Final
 - Name: Karthik Reddy
-- Date: 03/12/2022
+- Date: 03/19/2022
 
-## Indicator Profile: Education
-### Basic Information:
+## Indicator Profile: 
+**Education**
+
+### Abstract:
 
 - Education means studying in order to obtain a deeper knowledge and understanding of a variety of subjects to be applied to daily life. Education is not limited to just knowledge from books, but can also be obtained through practical experiences outside of the classroom.
 - In order for the entire world to really become equal, it needs to start with education. If everyone was provided with the same opportunities to education, then there would be less gaps between social classes.
+- More than 260 million children worldwide are out of school, yet more than half of those in education are not learning, the "World Bank has warned".
 - In today’s society, having an education is considered a vital part of being accepted by those around you. Having an education is believed to make you a useful part of society, and can make you feel like a contributing member as well.
+
+### Global education facts: 
+
+- In 39 out of 99 countries, fewer than 50% of the poorest children have completed primary school. In some countries like South Sudan, that figure is as low as 7%.
+- More than 50% of young people in 58 out of 133 countries have not completed upper secondary school. In Niger, only 2% of its young people have completed this education.
+- In 35 out of 75 countries, at least 25% of the poorest young women are illiterate. 
+- In 30 countries, fewer than 90 females for every 100 males complete lower-secondary school. 
 
 ## Indicator Topics: 
 - Population ages 15-64(% of total population).
@@ -15,6 +25,7 @@
 - Government expenditure on education, total(% of government expenditure).
 - Unemployment, total(% of total labor force).
 - Population, ages 15-24, total.
+- Coverage: Finished primary school. 
 
 **Countries:**
 - Burkina Faso.
@@ -65,6 +76,14 @@
 ![](correlation.png)
 - Correlation analysis is a method of statistical evaluation used to study the strength of a relationship between two, or more numerically measured, continuous variables. This particular type of analysis is useful when a researcher wants to establish if there are possible connections between variables.
 - In the above graph we have the correlation analysis of all the countries from the Sub-saharan Africa region. We have compared the total population with that of the total umemployed population. We could notice several possible connections between the variables. In the top most layer we could plot Eswatini, Lesotho, and South Africa with highest umemployment rate of approximately 25% and total population percentage lying between 55 to 65. The OLS trendline has gradually increased from 3% of unemployment rate ending at 20%, and total population percentage starting at 47, ending at 70. In the bottom most layer we could plot Chad, Madagascar, and Rwanda with the least unemployment rate of about 1%. Mauritius has the highest population percentage of 70% with the unemployment rate of 7%. Congo, Dem. Rep. has the highest literacy rate of 83% between the age of 15 to 24. Ghana has the highest government expenditure on education of 37%. 
+**2012 Population ages 15-64 (% of total population): 
+
+![](map.png)
+
+**School age population, secondary education, both sexes(number): 
+
+![](population.png)
+- As we follow the bar graph, Nigeria has the highest population of secondary schooling with 21.6 million students. 
 
 ## Conclusion: 
 
