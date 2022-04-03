@@ -1,0 +1,213 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2012,3.9130001068,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1,2013,4.0469999313,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+2,2014,4.1880002022,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+3,2015,4.3210000992,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+4,2016,4.4340000153,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+5,2017,4.5630002022,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+6,2018,4.6900000572,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+7,2019,4.6929998398,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+8,2020,4.8949999809,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+9,2012,5.5460000038,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+10,2013,5.515999794,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+11,2014,5.5289998055,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+12,2015,5.6059999466,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+13,2016,5.6519999504000005,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+14,2017,5.6479997635,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+15,2018,5.6050000191,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+16,2019,5.623000145,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+17,2020,6.3569998741,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+18,2012,2.2869999409,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+19,2013,2.25,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+20,2014,2.2620000839,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+21,2015,2.2739999294,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+22,2016,2.2880001068,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+23,2017,2.2990000247999998,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+24,2018,2.3180000782,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+25,2019,2.3259999752000002,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+26,2020,3.2369999886,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+27,2012,2.1700000763,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+28,2013,2.118999958,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+29,2014,2.0799999237,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+30,2015,2.0799999237,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+31,2016,3.0799999237,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+32,2017,3.0490000248,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+33,2018,3.0299999714,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+34,2019,3.0150001049,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+35,2020,3.9800000191000002,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+36,2012,0.6000000238000001,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+37,2013,0.9950000048000001,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+38,2014,1.3899999857,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+39,2015,1.7899999619,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+40,2016,1.8049999475,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+41,2017,1.8229999542000002,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+42,2018,1.8430000544,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+43,2019,1.8569999933,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+44,2020,2.4739999771,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+45,2012,2.0339999199,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+46,2013,2.0889999866,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+47,2014,2.1449999808999998,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+48,2015,2.2000000477,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+49,2016,2.9660000801,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+50,2017,3.7400000095,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+51,2018,3.7290000916,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+52,2019,3.7190001011,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+53,2020,3.9449999332,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+54,2012,3.5499999523,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+55,2013,1.9099999666,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+56,2014,1.9060000181,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+57,2015,1.9110000134,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+58,2016,1.9199999571,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+59,2017,1.9320000410000002,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+60,2018,1.9229999781,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+61,2019,1.9249999522999999,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+62,2020,2.7679998875000003,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+63,2014,50.0962982178,SE.ADT.1524.LT.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+64,2018,58.8739814758,SE.ADT.1524.LT.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+65,2018,38.2686500549,SE.ADT.1524.LT.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+66,2017,72.7548217773,SE.ADT.1524.LT.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+67,2017,55.3987007141,SE.ADT.1524.LT.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+68,2012,76.8291625977,SE.ADT.1524.LT.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+69,2018,79.8511734009,SE.ADT.1524.LT.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+70,2015,84.2901077271,SE.ADT.1524.LT.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+71,2019,87.8914413452,SE.ADT.1524.LT.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+72,2012,83.6588821411,SE.ADT.1524.LT.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+73,2018,89.3963088989,SE.ADT.1524.LT.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+74,2012,51.4672970113,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+75,2013,51.6236571831,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+76,2014,51.8094817307,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+77,2015,52.0181855689,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+78,2016,52.2026259607,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+79,2017,52.4098388005,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+80,2018,52.6449378492,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+81,2019,52.9148909095,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+82,2020,53.2186705881,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+83,2012,52.2994011382,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+84,2013,52.1183270293,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+85,2014,52.0115362861,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+86,2015,51.9641811906,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+87,2016,52.2123831398,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+88,2017,52.5221697106,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+89,2018,52.8799057425,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+90,2019,53.2651940862,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+91,2020,53.6601455101,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+92,2012,52.7709102156,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+93,2013,53.2985308777,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+94,2014,53.8349076778,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+95,2015,54.3715475562,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+96,2016,54.806239003900004,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+97,2017,55.2613712393,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+98,2018,55.7158850951,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+99,2019,56.1468683665,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+100,2020,56.5454698578,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+101,2012,53.8840605572,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+102,2013,54.1217804438,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+103,2014,54.410270338,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+104,2015,54.7322253104,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+105,2016,55.0003302966,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+106,2017,55.2985756108,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+107,2018,55.6215816109,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+108,2019,55.9613875716,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+109,2020,56.3093046003,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+110,2012,54.3521052042,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+111,2013,54.7632479148,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+112,2014,55.1611436222,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+113,2015,55.5225680455,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+114,2016,55.8271207506,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+115,2017,56.0975040312,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+116,2018,56.3451322814,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+117,2019,56.5890958933,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+118,2020,56.8367656256,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+119,2012,54.5698439386,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+120,2013,54.6873332967,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+121,2014,54.8519473242,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+122,2015,55.0613273672,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+123,2016,55.2670183867,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+124,2017,55.5121963132,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+125,2018,55.7960084892,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+126,2019,56.1142987091,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+127,2020,56.4586402446,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+128,2012,49.3886489493,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+129,2013,49.6142194828,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+130,2014,49.863716,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+131,2015,50.1296426755,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+132,2016,50.4247680771,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+133,2017,50.7597569174,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+134,2018,51.1284878976,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+135,2019,51.5374344748,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+136,2020,51.9984179622,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+137,2012,3467635.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+138,2013,3571202.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+139,2014,3676117.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+140,2015,3781805.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+141,2012,1020017.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+142,2013,1040606.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+143,2014,1060059.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+144,2015,1078382.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+145,2012,19552701.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+146,2013,20080973.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+147,2014,20589585.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+148,2015,21074230.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+149,2012,896464.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+150,2013,921602.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+151,2014,948299.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+152,2015,978071.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+153,2012,4533157.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+154,2013,4672640.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+155,2014,4810623.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+156,2015,4945440.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+157,2012,1530187.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+158,2013,1568429.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+159,2014,1607464.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+160,2015,1647427.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+161,2012,7503803.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+162,2013,7746494.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+163,2014,7992920.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+164,2015,8244246.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+165,2012,15.8953800201,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+166,2013,16.1652793884,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+167,2014,19.3681106567,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+168,2015,18.0270805359,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+169,2017,21.4440002441,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+170,2018,22.6611690521,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+171,2015,8.3867397308,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+172,2016,7.3190197945,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+173,2017,8.8950500488,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+174,2018,9.1354999542,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+175,2019,9.7978096008,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+176,2020,9.7824401855,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+177,2012,30.5395393372,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+178,2013,27.0210990906,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+179,2014,25.9183807373,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+180,2015,27.0987091064,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+181,2016,23.0133590698,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+182,2017,26.5099201202,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+183,2018,24.0015506744,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+184,2012,5.1843400002,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+185,2013,4.6732702255,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+186,2014,6.8934898376,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+187,2017,8.3419399261,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+188,2018,8.1477899551,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+189,2012,20.325799942,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+190,2013,13.9893798828,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+191,2014,18.9667701721,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+192,2015,16.9629096985,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+193,2016,19.838180542,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+194,2017,15.8376998901,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+195,2018,19.8180408478,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+196,2019,16.4410991669,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+197,2020,14.3206396103,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+198,2012,17.6804294586,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+199,2013,16.5920696259,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+200,2014,17.3914108276,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+201,2015,16.6649894714,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+202,2016,15.9913101196,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+203,2017,23.140039444,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+204,2018,21.7690906525,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+205,2012,11.4518995285,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+206,2013,11.7431201935,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+207,2014,11.7049102783,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+208,2015,13.2200803757,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+209,2016,11.7420501709,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+210,2017,12.8418197632,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+211,2018,11.247179985,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
