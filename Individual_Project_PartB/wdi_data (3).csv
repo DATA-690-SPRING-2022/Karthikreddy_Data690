@@ -1,0 +1,1868 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2012,3456723.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1,2013,3582561.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+2,2014,3717737.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+3,2015,3862337.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+4,2016,4014388.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+5,2017,4177751.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+6,2018,4350601.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+7,2019,4532748.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+8,2020,4722664.0,SP.SEC.TOTL.IN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+9,2012,1512291.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+10,2013,1552721.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+11,2014,1594627.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+12,2015,1637791.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+13,2016,1681837.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+14,2017,1724703.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+15,2018,1769718.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+16,2019,1816916.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+17,2020,1866128.0,SP.SEC.TOTL.IN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+18,2012,205915.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+19,2013,205476.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+20,2014,206718.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+21,2015,210041.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+22,2016,214476.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+23,2017,219614.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+24,2018,224807.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+25,2019,229743.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+26,2020,234108.0,SP.SEC.TOTL.IN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+27,2012,2608008.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+28,2013,2687887.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+29,2014,2773556.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+30,2015,2863542.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+31,2016,2956824.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+32,2017,3049268.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+33,2018,3146685.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+34,2019,3248868.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+35,2020,3355807.0,SP.SEC.TOTL.IN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+36,2012,1463007.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+37,2013,1469130.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+38,2014,1480054.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+39,2015,1497833.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+40,2016,1523557.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+41,2017,1350368.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+42,2018,1392458.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+43,2019,1442118.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+44,2020,1716014.0,SP.SEC.TOTL.IN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+45,2012,66595.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+46,2013,64450.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+47,2014,62874.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+48,2015,61926.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+49,2016,61620.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+50,2017,60954.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+51,2018,60524.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+52,2019,60249.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+53,2020,60120.0,SP.SEC.TOTL.IN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+54,2012,3321430.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+55,2013,3394443.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+56,2014,3477767.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+57,2015,3571412.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+58,2016,3674568.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+59,2017,3781439.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+60,2018,3896428.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+61,2019,4016393.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+62,2020,4138775.0,SP.SEC.TOTL.IN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+63,2012,723858.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+64,2013,735366.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+65,2014,749958.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+66,2015,768279.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+67,2016,790475.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+68,2017,804441.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+69,2018,821104.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+70,2019,840173.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+71,2020,860739.0,SP.SEC.TOTL.IN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+72,2012,2052023.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+73,2013,2128491.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+74,2014,2208062.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+75,2015,2289746.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+76,2016,2372308.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+77,2017,2451919.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+78,2018,2532578.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+79,2019,2614385.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+80,2020,2697440.0,SP.SEC.TOTL.IN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+81,2012,111097.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+82,2013,112973.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+83,2014,114967.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+84,2015,117064.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+85,2016,119271.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+86,2017,121500.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+87,2018,123922.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+88,2019,126508.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+89,2020,129210.0,SP.SEC.TOTL.IN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+90,2012,9008510.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+91,2013,9312058.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+92,2014,9644578.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+93,2015,10005017.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+94,2016,10391989.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+95,2017,10786294.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+96,2018,11206283.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+97,2019,11647043.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+98,2020,12105353.0,SP.SEC.TOTL.IN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+99,2012,645050.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+100,2013,663759.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+101,2014,683753.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+102,2015,705081.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+103,2016,728102.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+104,2017,751943.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+105,2018,778043.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+106,2019,806046.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+107,2020,835437.0,SP.SEC.TOTL.IN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+108,2012,3453683.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+109,2013,3547790.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+110,2014,3642670.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+111,2015,3738993.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+112,2016,3835230.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+113,2017,3918197.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+114,2018,3998929.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+115,2019,4078046.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+116,2020,4154730.0,SP.SEC.TOTL.IN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+117,2012,106940.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+118,2013,112544.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+119,2014,116457.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+120,2015,119378.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+121,2016,122303.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+122,2017,131923.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+123,2018,138938.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+124,2019,143588.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+125,2020,146912.0,SP.SEC.TOTL.IN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+126,2012,447633.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+127,2013,448549.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+128,2014,458159.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+129,2015,474342.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+130,2016,496961.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+131,2017,520979.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+132,2018,545989.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+133,2019,571911.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+134,2020,599530.0,SP.SEC.TOTL.IN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+135,2012,132099.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+136,2013,131591.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+137,2014,131671.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+138,2015,132168.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+139,2016,131398.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+140,2017,131395.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+141,2018,132383.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+142,2019,134493.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+143,2020,137921.0,SP.SEC.TOTL.IN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+144,2012,13116245.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+145,2013,13583756.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+146,2014,14008369.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+147,2015,14392543.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+148,2016,14733885.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+149,2017,15018024.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+150,2018,15266848.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+151,2019,15489919.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+152,2020,15694724.0,SP.SEC.TOTL.IN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+153,2012,247752.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+154,2013,251227.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+155,2014,254243.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+156,2015,257110.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+157,2016,260381.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+158,2017,266756.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+159,2018,273695.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+160,2019,281095.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+161,2020,289290.0,SP.SEC.TOTL.IN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+162,2012,260178.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+163,2013,265737.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+164,2014,271434.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+165,2015,277352.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+166,2016,283323.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+167,2017,289762.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+168,2018,296938.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+169,2019,304846.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+170,2020,313346.0,SP.SEC.TOTL.IN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+171,2012,3939980.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+172,2013,3477738.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+173,2014,3536617.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+174,2015,3592432.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+175,2016,3645512.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+176,2017,3696193.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+177,2018,3753725.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+178,2019,3817862.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+179,2020,4491935.0,SP.SEC.TOTL.IN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+180,2012,1738829.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+181,2013,1777360.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+182,2014,1819552.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+183,2015,1866732.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+184,2016,1918979.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+185,2017,1967963.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+186,2018,2017643.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+187,2019,2067540.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+188,2020,2117284.0,SP.SEC.TOTL.IN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+189,2012,217667.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+190,2013,221475.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+191,2014,225827.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+192,2015,230586.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+193,2016,235742.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+194,2017,241284.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+195,2018,247507.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+196,2019,254296.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+197,2020,261604.0,SP.SEC.TOTL.IN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+198,2012,6249954.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+199,2013,6449209.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+200,2014,6637010.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+201,2015,6810227.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+202,2016,6978942.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+203,2017,7150218.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+204,2018,7326400.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+205,2019,7506670.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+206,2020,7686730.0,SP.SEC.TOTL.IN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+207,2012,216391.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+208,2013,215982.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+209,2014,217275.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+210,2015,219912.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+211,2016,220064.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+212,2017,220107.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+213,2018,219414.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+214,2019,217958.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+215,2020,215517.0,SP.SEC.TOTL.IN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+216,2012,535014.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+217,2013,556779.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+218,2014,577743.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+219,2015,598446.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+220,2016,618929.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+221,2017,638190.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+222,2018,656685.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+223,2019,674538.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+224,2020,691665.0,SP.SEC.TOTL.IN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+225,2012,3686693.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+226,2013,3793717.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+227,2014,3894861.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+228,2015,3988908.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+229,2016,4075286.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+230,2017,4157863.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+231,2018,4238538.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+232,2019,4319984.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+233,2020,4402567.0,SP.SEC.TOTL.IN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+234,2012,2155645.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+235,2013,2219743.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+236,2014,2288409.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+237,2015,2358423.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+238,2016,2428970.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+239,2017,2504109.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+240,2018,2584234.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+241,2019,2669137.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+242,2020,2856102.0,SP.SEC.TOTL.IN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+243,2012,2046652.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+244,2013,2110065.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+245,2014,2183294.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+246,2015,2266253.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+247,2016,2358013.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+248,2017,2450236.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+249,2018,2550725.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+250,2019,2658163.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+251,2020,2771005.0,SP.SEC.TOTL.IN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+252,2012,555795.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+253,2013,568967.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+254,2014,582690.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+255,2015,596957.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+256,2016,611803.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+257,2017,626908.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+258,2018,642818.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+259,2019,659426.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+260,2020,676504.0,SP.SEC.TOTL.IN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+261,2012,136708.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+262,2013,134508.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+263,2014,133129.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+264,2015,132493.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+265,2016,132008.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+266,2017,130868.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+267,2018,128737.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+268,2019,125673.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+269,2020,121763.0,SP.SEC.TOTL.IN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+270,2012,2853730.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+271,2013,2959711.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+272,2014,3073714.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+273,2015,3196695.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+274,2016,3316177.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+275,2017,3434981.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+276,2018,3548839.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+277,2019,3657186.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+278,2020,3758706.0,SP.SEC.TOTL.IN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+279,2012,250906.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+280,2013,251526.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+281,2014,251304.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+282,2015,250250.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+283,2016,247409.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+284,2017,244765.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+285,2018,243807.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+286,2019,245419.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+287,2020,249366.0,SP.SEC.TOTL.IN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+288,2012,2580731.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+289,2013,2701888.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+290,2014,2829405.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+291,2015,2963318.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+292,2016,3103398.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+293,2017,3243135.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+294,2018,3389171.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+295,2019,3541161.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+296,2020,3698872.0,SP.SEC.TOTL.IN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+297,2012,21644940.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+298,2013,22298129.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+299,2014,23004504.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+300,2015,23761342.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+301,2016,24557555.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+302,2017,25332934.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+303,2018,26140623.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+304,2019,26966917.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+305,2020,27795284.0,SP.SEC.TOTL.IN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+306,2012,1395824.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+307,2013,1429254.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+308,2014,1464331.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+309,2015,1500153.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+310,2016,1535538.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+311,2017,1571323.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+312,2018,1609654.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+313,2019,1651895.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+314,2020,1698646.0,SP.SEC.TOTL.IN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+315,2012,24208.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+316,2013,24979.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+317,2014,25835.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+318,2015,26816.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+319,2016,27925.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+320,2017,28963.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+321,2018,29992.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+322,2019,30996.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+323,2020,31968.0,SP.SEC.TOTL.IN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+324,2012,2086353.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+325,2013,2129910.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+326,2014,2178377.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+327,2015,2231206.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+328,2016,2288505.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+329,2017,2346519.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+330,2018,2412863.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+331,2019,2486738.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+332,2020,2566762.0,SP.SEC.TOTL.IN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+333,2012,9569.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+334,2013,9355.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+335,2014,9193.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+336,2015,9079.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+337,2016,9027.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+338,2017,9058.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+339,2018,9158.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+340,2019,9318.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+341,2020,9539.0,SP.SEC.TOTL.IN,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+342,2012,910950.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+343,2013,1072184.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+344,2014,1096988.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+345,2015,1150404.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+346,2016,1177472.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+347,2017,1177472.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+348,2018,1205605.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+349,2019,1234517.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+350,2020,1264270.0,SP.SEC.TOTL.IN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+351,2012,1824954.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+352,2013,1894465.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+353,2014,1961080.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+354,2015,2022899.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+355,2016,2078512.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+356,2017,2127210.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+357,2018,2178790.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+358,2019,2235348.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+359,2020,2297613.0,SP.SEC.TOTL.IN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+360,2012,4901299.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+361,2013,4868448.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+362,2014,4843020.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+363,2015,4823647.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+364,2016,4818649.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+365,2017,4825480.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+366,2018,4854147.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+367,2019,4911133.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+368,2020,4995806.0,SP.SEC.TOTL.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+369,2012,1420370.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+370,2013,1450784.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+371,2014,1474015.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+372,2015,1490782.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+373,2016,1499459.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+374,2017,1505678.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+375,2018,1513354.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+376,2019,1526609.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+377,2020,1547531.0,SP.SEC.TOTL.IN,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+378,2012,4180387.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+379,2013,4289828.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+380,2014,4401944.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+381,2015,4514571.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+382,2016,4625353.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+383,2017,4729626.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+384,2018,4832228.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+385,2019,4932752.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+386,2020,5970498.0,SP.SEC.TOTL.IN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+387,2012,6013932.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+388,2013,6158827.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+389,2014,6333365.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+390,2015,6537879.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+391,2016,6766651.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+392,2017,7022731.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+393,2018,7298998.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+394,2019,7298998.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+395,2020,7872608.0,SP.SEC.TOTL.IN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+396,2012,1005267.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+397,2013,1035512.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+398,2014,1068609.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+399,2015,1103661.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+400,2016,1140186.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+401,2017,1177040.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+402,2018,1214479.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+403,2019,1252040.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+404,2020,1289420.0,SP.SEC.TOTL.IN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+405,2012,4919955.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+406,2013,5086467.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+407,2014,5270150.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+408,2015,5472583.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+409,2016,5693984.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+410,2017,5932119.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+411,2018,6176786.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+412,2019,6417643.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+413,2020,6649090.0,SP.SEC.TOTL.IN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+414,2012,1651591.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+415,2013,1711116.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+416,2014,1775695.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+417,2015,1844834.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+418,2016,1913561.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+419,2017,1985550.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+420,2018,2057088.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+421,2019,2125074.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+422,2020,2188961.0,SP.SEC.TOTL.IN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+423,2012,1817102.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+424,2013,1827018.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+425,2014,1845160.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+426,2015,1869712.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+427,2016,1882809.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+428,2017,1910926.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+429,2018,1953352.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+430,2019,2005864.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+431,2020,2062944.0,SP.SEC.TOTL.IN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+432,2012,7.3470001221,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+433,2013,7.3660001755,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+434,2014,7.3720002174,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+435,2015,7.3920001984,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+436,2016,7.4120001793,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+437,2017,7.4079999924,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+438,2018,7.4210000038,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+439,2019,7.4210000038,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+440,2020,8.3330001831,SL.UEM.TOTL.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+441,2012,2.4709999561,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+442,2013,2.2869999409,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+443,2014,2.132999897,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+444,2015,2.0069999695,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+445,2016,1.8279999495,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+446,2017,1.6440000534,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+447,2018,1.4700000286,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+448,2019,1.4700000286,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+449,2020,1.5839999914,SL.UEM.TOTL.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+450,2012,18.9510002136,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+451,2013,19.4009990692,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+452,2014,19.9909992218,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+453,2015,20.5709991455,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+454,2016,21.0289993286,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+455,2017,21.5659999847,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+456,2018,22.0709991455,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+457,2019,22.6100006104,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+458,2020,24.9300003052,SL.UEM.TOTL.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+459,2012,3.9130001068,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+460,2013,4.0469999313,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+461,2014,4.1880002022,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+462,2015,4.3210000992,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+463,2016,4.4340000153,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+464,2017,4.5630002022,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+465,2018,4.6900000572,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+466,2019,4.6929998398,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+467,2020,4.8949999809,SL.UEM.TOTL.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+468,2012,1.5900000334,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+469,2013,1.5779999495,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+470,2014,1.5700000525000002,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+471,2015,1.6000000238,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+472,2016,1.5900000334,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+473,2017,1.5889999866,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+474,2018,1.5870000123999999,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+475,2019,1.5889999866,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+476,2020,1.7070000172,SL.UEM.TOTL.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+477,2012,11.1210002899,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+478,2013,11.3479995728,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+479,2014,11.5749998093,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+480,2015,11.8000001907,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+481,2016,12.0080003738,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+482,2017,12.2399997711,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+483,2018,12.1700000763,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+484,2019,12.2189998627,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+485,2020,15.3059997559,SL.UEM.TOTL.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+486,2012,3.8220000267,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+487,2013,3.6749999523,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+488,2014,3.5299999714,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+489,2015,3.5510001183,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+490,2016,3.5750000477,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+491,2017,3.5999999045999997,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+492,2018,3.617000103,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+493,2019,3.6380000114,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+494,2020,3.8369998932,SL.UEM.TOTL.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+495,2012,5.5460000038,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+496,2013,5.515999794,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+497,2014,5.5289998055,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+498,2015,5.6059999466,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+499,2016,5.6519999504000005,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+500,2017,5.6479997635,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+501,2018,5.6050000191,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+502,2019,5.623000145,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+503,2020,6.3569998741,SL.UEM.TOTL.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+504,2012,1.006000042,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+505,2013,1.0290000439,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+506,2014,1.0460000038,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+507,2015,1.07099998,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+508,2016,1.1039999723,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+509,2017,1.118999958,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+510,2018,1.1299999952,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+511,2019,1.1230000257,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+512,2020,1.7419999838,SL.UEM.TOTL.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+513,2012,7.4109997749,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+514,2013,7.757999897,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+515,2014,8.1400003433,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+516,2015,8.1359996796,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+517,2016,8.1020002365,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+518,2017,8.0860004425,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+519,2018,8.079000473,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+520,2019,8.0819997787,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+521,2020,9.2229995728,SL.UEM.TOTL.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+522,2012,4.4899997711,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+523,2013,4.4759998322,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+524,2014,4.4640002251,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+525,2015,4.4660000801,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+526,2016,4.4770002365,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+527,2017,4.4650001526,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+528,2018,4.4510002136,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+529,2019,4.4510002136,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+530,2020,5.265999794,SL.UEM.TOTL.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+531,2012,20.1760005951,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+532,2013,20.3169994354,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+533,2014,20.3099994659,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+534,2015,20.4470005035,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+535,2016,20.5590000153,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+536,2017,20.5590000153,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+537,2018,20.6140003204,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+538,2019,20.6219997406,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+539,2020,22.843000412,SL.UEM.TOTL.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+540,2012,7.2199997902,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+541,2013,4.25,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+542,2014,3.7009999752000002,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+543,2015,3.1489999294,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+544,2016,2.5999999045999997,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+545,2017,3.2699999808999998,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+546,2018,3.2929999828,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+547,2019,3.3180000782,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+548,2020,3.4879999161,SL.UEM.TOTL.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+549,2012,8.6129999161,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+550,2013,8.5129995346,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+551,2014,8.4829998016,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+552,2015,8.5439996719,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+553,2016,8.6289997101,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+554,2017,8.6479997635,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+555,2018,8.6239995956,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+556,2019,8.678999900800001,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+557,2020,9.9010000229,SL.UEM.TOTL.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+558,2012,5.5300002098,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+559,2013,5.5799999237,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+560,2014,5.6729998589,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+561,2015,5.8280000687,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+562,2016,5.9019999504000005,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+563,2017,5.9429998398,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+564,2018,5.9470000267,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+565,2019,5.993999958,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+566,2020,7.8649997711,SL.UEM.TOTL.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+567,2012,25.1490001678,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+568,2013,24.5499992371,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+569,2014,23.9659996033,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+570,2015,23.329000473,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+571,2016,22.7199993134,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+572,2017,22.7530002594,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+573,2018,22.7919998169,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+574,2019,22.8369998932,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+575,2020,25.5090007782,SL.UEM.TOTL.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+576,2012,2.2869999409,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+577,2013,2.25,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+578,2014,2.2620000839,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+579,2015,2.2739999294,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+580,2016,2.2880001068,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+581,2017,2.2990000247999998,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+582,2018,2.3180000782,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+583,2019,2.3259999752000002,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+584,2020,3.2369999886,SL.UEM.TOTL.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+585,2012,20.4880008698,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+586,2013,20.5209999084,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+587,2014,20.5729999542,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+588,2015,20.6130008698,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+589,2016,20.6690006256,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+590,2017,20.7210006714,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+591,2018,20.7490005493,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+592,2019,20.7420005798,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+593,2020,21.9720001221,SL.UEM.TOTL.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+594,2012,9.4200000763,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+595,2013,9.4530000687,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+596,2014,9.5030002594,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+597,2015,9.4670000076,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+598,2016,9.498000145,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+599,2017,9.4849996567,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+600,2018,9.4759998322,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+601,2019,9.498000145,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+602,2020,11.0810003281,SL.UEM.TOTL.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+603,2012,5.9109997749000005,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+604,2013,6.2030000687,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+605,2014,6.5240001678,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+606,2015,6.8099999428,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+607,2016,5.5269999504000005,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+608,2017,4.2199997902,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+609,2018,4.2760000229,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+610,2019,4.3159999847,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+611,2020,4.6510000229,SL.UEM.TOTL.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+612,2012,4.8179998398,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+613,2013,4.8660001755,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+614,2014,4.8959999084,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+615,2015,4.9229998589,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+616,2016,4.8800001144,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+617,2017,4.9140000343,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+618,2018,4.9829998016,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+619,2019,5.0199999809,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+620,2020,6.103000164,SL.UEM.TOTL.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+621,2012,5.8699998856,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+622,2013,5.8090000153,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+623,2014,5.8029999733,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+624,2015,5.8699998856,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+625,2016,5.9510002136,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+626,2017,5.986000061,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+627,2018,5.9819998741,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+628,2019,6.0359997749,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+629,2020,6.7369999886,SL.UEM.TOTL.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+630,2012,2.8310000896,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+631,2013,2.8080000877,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+632,2014,2.7950000763,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+633,2015,2.7769999504,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+634,2016,2.7599999905,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+635,2017,3.5130000114,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+636,2018,4.2490000725,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+637,2019,5.0100002289,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+638,2020,5.7290000916,SL.UEM.TOTL.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+639,2012,25.3689994812,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+640,2013,24.5799999237,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+641,2014,24.2210006714,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+642,2015,23.8409996033,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+643,2016,23.4750003815,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+644,2017,23.2000007629,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+645,2018,22.8129997253,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+646,2019,22.4400005341,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+647,2020,24.5629997253,SL.UEM.TOTL.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+648,2012,2.1700000763,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+649,2013,2.118999958,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+650,2014,2.0799999237,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+651,2015,2.0799999237,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+652,2016,3.0799999237,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+653,2017,3.0490000248,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+654,2018,3.0299999714,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+655,2019,3.0150001049,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+656,2020,3.9800000191000002,SL.UEM.TOTL.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+657,2012,0.6000000238000001,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+658,2013,0.9950000048000001,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+659,2014,1.3899999857,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+660,2015,1.7899999619,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+661,2016,1.8049999475,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+662,2017,1.8229999542000002,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+663,2018,1.8430000544,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+664,2019,1.8569999933,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+665,2020,2.4739999771,SL.UEM.TOTL.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+666,2012,5.9520001411,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+667,2013,5.9499998093,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+668,2014,5.8979997635,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+669,2015,5.8639998436,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+670,2016,5.8169999123,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+671,2017,5.7600002289,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+672,2018,5.757999897,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+673,2019,5.751999855,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+674,2020,6.7010002136,SL.UEM.TOTL.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+675,2012,6.6500000954,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+676,2013,6.3499999046,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+677,2014,6.3800001144,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+678,2015,7.7300000191,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+679,2016,7.5700001717,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+680,2017,7.4099998474,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+681,2018,7.4279999733,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+682,2019,7.4419999123,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+683,2020,7.6960000992,SL.UEM.TOTL.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+684,2012,9.8599996567,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+685,2013,9.9569997787,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+686,2014,10.0509996414,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+687,2015,10.1379995346,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+688,2016,10.2609996796,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+689,2017,10.3400001526,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+690,2018,10.3850002289,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+691,2019,10.392999649,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+692,2020,11.2700004578,SL.UEM.TOTL.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+693,2012,7.4699997902,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+694,2013,7.3200001717,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+695,2014,7.4699997902,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+696,2015,7.4099998474,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+697,2016,6.8099999428,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+698,2017,6.75,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+699,2018,6.4299998283,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+700,2019,6.3299999237,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+701,2020,7.4070000648,SL.UEM.TOTL.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+702,2012,3.2980000973,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+703,2013,3.3420000076,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+704,2014,3.382999897,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+705,2015,3.4300000668,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+706,2016,3.4470000267,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+707,2017,3.4509999752000002,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+708,2018,3.4560000896,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+709,2019,3.4660000801,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+710,2020,3.8099999428,SL.UEM.TOTL.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+711,2012,16.7700004578,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+712,2013,19.0300006866,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+713,2014,18.5200004578,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+714,2015,20.9109992981,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+715,2016,23.3500003815,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+716,2017,21.638999939,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+717,2018,19.8799991608,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+718,2019,19.9880008698,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+719,2020,21.4459991455,SL.UEM.TOTL.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+720,2012,2.1800000668,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+721,2013,1.368999958,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+722,2014,0.5199999809,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+723,2015,0.5299999714,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+724,2016,0.5339999795,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+725,2017,0.5419999957,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+726,2018,0.5450000167,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+727,2019,0.55400002,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+728,2020,0.6240000129000001,SL.UEM.TOTL.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+729,2012,3.742000103,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+730,2013,3.7000000477,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+731,2014,4.5599999428,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+732,2015,4.3099999428,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+733,2016,7.0599999428,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+734,2017,8.3900003433,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+735,2018,8.4560003281,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+736,2019,8.529999733,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+737,2020,9.7139997482,SL.UEM.TOTL.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+738,2012,1.1180000305,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+739,2013,1.1519999504,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+740,2014,1.1699999571,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+741,2015,1.1480000019,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+742,2016,1.1440000534,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+743,2017,1.1369999647,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+744,2018,1.1109999418,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+745,2019,1.0980000496,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+746,2020,1.4850000143,SL.UEM.TOTL.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+747,2012,13.5900001526,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+748,2013,13.6490001678,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+749,2014,13.7049999237,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+750,2015,13.8210000992,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+751,2016,13.8940000534,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+752,2017,13.9739999771,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+753,2018,14.0609998703,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+754,2019,14.1440000534,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+755,2020,15.7460002899,SL.UEM.TOTL.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+756,2012,9.4379997253,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+757,2013,8.5780000687,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+758,2014,7.6459999084,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+759,2015,6.7600002289,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+760,2016,4.4600000381000005,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+761,2017,3.6900000572,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+762,2018,3.2750000954000003,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+763,2019,2.8599998951,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+764,2020,3.6229999065,SL.UEM.TOTL.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+765,2012,4.3979997635,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+766,2013,4.5100002289,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+767,2014,4.6799998283,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+768,2015,4.7420001030000005,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+769,2016,4.6630001068,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+770,2017,4.6630001068,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+771,2018,4.6599998474,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+772,2019,4.6490001678,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+773,2020,5.1950001717,SL.UEM.TOTL.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+774,2012,18.9740009308,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+775,2013,18.9519996643,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+776,2014,18.9300003052,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+777,2015,18.9029998779,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+778,2016,18.888999939,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+779,2017,18.8819999695,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+780,2018,18.8500003815,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+781,2019,18.827999115,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+782,2020,19.7229995728,SL.UEM.TOTL.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+783,2012,24.7299995422,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+784,2013,24.5599994659,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+785,2014,24.8899993896,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+786,2015,25.1499996185,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+787,2016,26.5400009155,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+788,2017,27.0400009155,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+789,2018,26.9099998474,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+790,2019,28.4699993134,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+791,2020,29.2199993134,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+792,2012,12.1979999542,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+793,2013,12.1280002594,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+794,2014,12.1879997253,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+795,2015,12.2749996185,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+796,2016,12.2950000763,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+797,2017,12.2539997101,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+798,2018,12.2370004654,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+799,2019,12.2259998322,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+800,2020,14.029999733,SL.UEM.TOTL.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+801,2012,17.4549999237,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+802,2013,17.4099998474,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+803,2014,17.4309997559,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+804,2015,17.4899997711,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+805,2016,17.5200004578,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+806,2017,17.533000946,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+807,2018,17.5799999237,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+808,2019,17.6539993286,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+809,2020,19.6490001678,SL.UEM.TOTL.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+810,2012,3.2279999256,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+811,2013,2.9300000668,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+812,2014,2.1199998856,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+813,2015,2.1429998875,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+814,2016,2.1579999924,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+815,2017,2.1770000458,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+816,2018,2.2060000896,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+817,2019,2.2219998837,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+818,2020,2.5280001163,SL.UEM.TOTL.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+819,2012,2.0339999199,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+820,2013,2.0889999866,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+821,2014,2.1449999808999998,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+822,2015,2.2000000477,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+823,2016,2.9660000801,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+824,2017,3.7400000095,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+825,2018,3.7290000916,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+826,2019,3.7190001011,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+827,2020,3.9449999332,SL.UEM.TOTL.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+828,2012,3.5499999523,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+829,2013,1.9099999666,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+830,2014,1.9060000181,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+831,2015,1.9110000134,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+832,2016,1.9199999571,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+833,2017,1.9320000410000002,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+834,2018,1.9229999781,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+835,2019,1.9249999522999999,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+836,2020,2.7679998875000003,SL.UEM.TOTL.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+837,2012,7.8499999046,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+838,2013,8.611000061,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+839,2014,9.3620004654,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+840,2015,10.125,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+841,2016,10.8719997406,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+842,2017,11.6300001144,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+843,2018,12.0100002289,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+844,2019,12.5200004578,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+845,2020,12.8479995728,SL.UEM.TOTL.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+846,2012,5.1529998779,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+847,2013,4.9819998741,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+848,2014,4.7699999809,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+849,2015,4.7779998779,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+850,2016,4.7880001068,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+851,2017,4.7849998474,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+852,2018,4.7960000038,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+853,2019,4.8330001831,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+854,2020,5.3509998322,SL.UEM.TOTL.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+855,2014,77.4311294556,SE.ADT.1524.LT.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+856,2012,52.4924697876,SE.ADT.1524.LT.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+857,2018,60.9480781555,SE.ADT.1524.LT.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+858,2013,97.4562911987,SE.ADT.1524.LT.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+859,2014,50.0962982178,SE.ADT.1524.LT.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+860,2018,58.8739814758,SE.ADT.1524.LT.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+861,2014,79.5596084595,SE.ADT.1524.LT.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+862,2017,88.2217712402,SE.ADT.1524.LT.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+863,2012,98.1289672852,SE.ADT.1524.LT.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+864,2015,98.1113128662,SE.ADT.1524.LT.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+865,2018,85.0800018311,SE.ADT.1524.LT.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+866,2018,38.2686500549,SE.ADT.1524.LT.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+867,2015,38.7724189758,SE.ADT.1524.LT.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+868,2016,30.7916107178,SE.ADT.1524.LT.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+869,2012,71.5812683105,SE.ADT.1524.LT.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+870,2018,78.2703933716,SE.ADT.1524.LT.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+871,2012,83.5975494385,SE.ADT.1524.LT.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+872,2016,84.9895095825,SE.ADT.1524.LT.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+873,2018,82.0547866821,SE.ADT.1524.LT.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+874,2012,48.3099594116,SE.ADT.1524.LT.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+875,2014,53.020690918,SE.ADT.1524.LT.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+876,2019,83.6264724731,SE.ADT.1524.LT.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+877,2018,93.2723922729,SE.ADT.1524.LT.ZS,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+878,2018,95.469367981,SE.ADT.1524.LT.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+879,2017,72.7548217773,SE.ADT.1524.LT.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+880,2012,88.5041427612,SE.ADT.1524.LT.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+881,2018,89.7836608887,SE.ADT.1524.LT.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+882,2013,60.7779006958,SE.ADT.1524.LT.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+883,2015,67.1613769531,SE.ADT.1524.LT.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+884,2018,92.4909667969,SE.ADT.1524.LT.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+885,2014,46.2950515747,SE.ADT.1524.LT.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+886,2018,53.9405212402,SE.ADT.1524.LT.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+887,2014,60.4023513794,SE.ADT.1524.LT.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+888,2014,86.5256271362,SE.ADT.1524.LT.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+889,2018,87.8300018311,SE.ADT.1524.LT.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+890,2014,86.6322021484,SE.ADT.1524.LT.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+891,2017,55.3987007141,SE.ADT.1524.LT.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+892,2012,76.8291625977,SE.ADT.1524.LT.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+893,2018,79.8511734009,SE.ADT.1524.LT.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+894,2014,76.0819091797,SE.ADT.1524.LT.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+895,2015,72.9356079102,SE.ADT.1524.LT.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+896,2015,49.3665313721,SE.ADT.1524.LT.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+897,2018,50.1347007751,SE.ADT.1524.LT.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+898,2020,46.1573410034,SE.ADT.1524.LT.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+899,2013,71.032081604,SE.ADT.1524.LT.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+900,2017,63.9478111267,SE.ADT.1524.LT.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+901,2018,99.0420303345,SE.ADT.1524.LT.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+902,2015,70.525100708,SE.ADT.1524.LT.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+903,2017,70.9124526978,SE.ADT.1524.LT.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+904,2018,95.1649017334,SE.ADT.1524.LT.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+905,2012,39.7877311707,SE.ADT.1524.LT.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+906,2018,43.4599990845,SE.ADT.1524.LT.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+907,2018,75.0287475586,SE.ADT.1524.LT.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+908,2012,82.3307495117,SE.ADT.1524.LT.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+909,2014,85.0662384033,SE.ADT.1524.LT.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+910,2018,86.492767334,SE.ADT.1524.LT.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+911,2012,96.7384033203,SE.ADT.1524.LT.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+912,2018,97.7825469971,SE.ADT.1524.LT.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+913,2013,56.9430084229,SE.ADT.1524.LT.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+914,2017,69.4784088135,SE.ADT.1524.LT.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+915,2018,99.0699996948,SE.ADT.1524.LT.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+916,2013,57.0221290588,SE.ADT.1524.LT.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+917,2018,66.6485977173,SE.ADT.1524.LT.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+918,2012,98.8820419312,SE.ADT.1524.LT.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+919,2014,98.8822784424,SE.ADT.1524.LT.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+920,2015,98.9557800293,SE.ADT.1524.LT.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+921,2017,95.3238220215,SE.ADT.1524.LT.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+922,2019,98.4095306396,SE.ADT.1524.LT.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+923,2018,47.9009590149,SE.ADT.1524.LT.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+924,2018,73.0,SE.ADT.1524.LT.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+925,2012,85.9400024414,SE.ADT.1524.LT.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+926,2015,85.7551422119,SE.ADT.1524.LT.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+927,2015,84.2901077271,SE.ADT.1524.LT.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+928,2019,87.8914413452,SE.ADT.1524.LT.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+929,2012,83.6588821411,SE.ADT.1524.LT.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+930,2018,89.3963088989,SE.ADT.1524.LT.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+931,2018,92.0915679932,SE.ADT.1524.LT.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+932,2014,90.4281234741,SE.ADT.1524.LT.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+933,2012,50.4679776283,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+934,2013,50.471792486300004,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+935,2014,50.5197967811,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+936,2015,50.6151669639,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+937,2016,50.6856291078,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+938,2017,50.8077871356,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+939,2018,50.9747016427,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+940,2019,51.1786332224,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+941,2020,51.4131751846,SP.POP.1564.TO.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+942,2012,53.1602798942,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+943,2013,53.3357435601,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+944,2014,53.5299164642,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+945,2015,53.7351909313,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+946,2016,53.8983079844,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+947,2017,54.0874712019,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+948,2018,54.2987123079,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+949,2019,54.529596308,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+950,2020,54.7769565791,SP.POP.1564.TO.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+951,2012,61.6035548914,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+952,2013,61.4748359796,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+953,2014,61.3487961896,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+954,2015,61.246814755,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+955,2016,61.3285078616,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+956,2017,61.4743229271,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+957,2018,61.6631796379,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+958,2019,61.8691173362,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+959,2020,62.0840805111,SP.POP.1564.TO.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+960,2012,51.4672970113,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+961,2013,51.6236571831,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+962,2014,51.8094817307,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+963,2015,52.0181855689,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+964,2016,52.2026259607,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+965,2017,52.4098388005,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+966,2018,52.6449378492,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+967,2019,52.9148909095,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+968,2020,53.2186705881,SP.POP.1564.TO.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+969,2012,52.6443901939,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+970,2013,52.566635546,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+971,2014,52.4739547224,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+972,2015,52.3834673717,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+973,2016,52.3029616242,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+974,2017,52.2577451836,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+975,2018,52.2513787905,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+976,2019,52.2872570157,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+977,2020,52.3679431062,SP.POP.1564.TO.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+978,2012,64.0256514295,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+979,2013,64.6193048141,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+980,2014,65.1147758605,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+981,2015,65.5488496273,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+982,2016,65.928953621,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+983,2017,66.2843396627,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+984,2018,66.6129058954,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+985,2019,66.89517852110001,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+986,2020,67.132684757,SP.POP.1564.TO.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+987,2012,53.6159642434,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+988,2013,53.7254022164,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+989,2014,53.8695781985,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+990,2015,54.0539964001,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+991,2016,54.2049039997,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+992,2017,54.4012752873,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+993,2018,54.6395427999,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+994,2019,54.9142190677,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+995,2020,55.2199112909,SP.POP.1564.TO.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+996,2012,52.2994011382,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+997,2013,52.1183270293,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+998,2014,52.0115362861,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+999,2015,51.9641811906,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1000,2016,52.2123831398,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1001,2017,52.5221697106,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1002,2018,52.8799057425,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1003,2019,53.2651940862,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1004,2020,53.6601455101,SP.POP.1564.TO.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1005,2012,48.9711883298,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1006,2013,49.1902194126,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1007,2014,49.4410244002,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1008,2015,49.7186268135,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1009,2016,49.9074968101,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1010,2017,50.132708449,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1011,2018,50.3931810668,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1012,2019,50.6874136351,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1013,2020,51.0111248943,SP.POP.1564.TO.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1014,2012,56.3710937446,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1015,2013,56.565363686,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1016,2014,56.7630598243,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1017,2015,56.9647965589,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1018,2016,57.0991161299,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1019,2017,57.2646002172,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1020,2018,57.4545668623,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1021,2019,57.6587227901,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1022,2020,57.8743584701,SP.POP.1564.TO.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1023,2012,50.6442084726,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1024,2013,50.5952965273,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1025,2014,50.5924408635,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1026,2015,50.6382174704,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1027,2016,50.633513175,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1028,2017,50.6967685652,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1029,2018,50.8165172919,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1030,2019,50.9816614057,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1031,2020,51.1861398598,SP.POP.1564.TO.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1032,2012,55.4567104467,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1033,2013,55.3526657873,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1034,2014,55.2936936983,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1035,2015,55.2762868107,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1036,2016,55.3186952971,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1037,2017,55.4126395725,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1038,2018,55.5547780005,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1039,2019,55.7413352048,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1040,2020,55.966986385,SP.POP.1564.TO.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1041,2012,53.9245492266,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1042,2013,54.1465300923,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1043,2014,54.3856272456,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1044,2015,54.6386328544,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1045,2016,54.7985044861,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1046,2017,54.9927058734,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1047,2018,55.2040848482,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1048,2019,55.4121774683,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1049,2020,55.6089568256,SP.POP.1564.TO.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1050,2012,59.1295889898,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1051,2013,59.4228237675,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1052,2014,59.6846411358,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1053,2015,59.9366917458,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1054,2016,60.043450353,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1055,2017,60.231204071,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1056,2018,60.4255237877,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1057,2019,60.6186937033,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1058,2020,60.8393532361,SP.POP.1564.TO.ZS,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1059,2012,56.4267368858,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1060,2013,56.6391833963,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1061,2014,56.819653357600004,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1062,2015,56.9499947466,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1063,2016,57.3658636424,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1064,2017,57.6476811536,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1065,2018,57.8729205188,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1066,2019,58.1537804952,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1067,2020,58.5447402264,SP.POP.1564.TO.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1068,2012,52.7709102156,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1069,2013,53.2985308777,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1070,2014,53.8349076778,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1071,2015,54.3715475562,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1072,2016,54.806239003900004,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1073,2017,55.2613712393,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1074,2018,55.7158850951,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1075,2019,56.1468683665,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1076,2020,56.5454698578,SP.POP.1564.TO.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1077,2012,59.2652264812,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1078,2013,59.5829221863,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1079,2014,59.8357575114,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1080,2015,60.0405301471,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1081,2016,59.8055255487,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1082,2017,59.5932435855,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1083,2018,59.4102228356,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1084,2019,59.2757271427,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1085,2020,59.2072997043,SP.POP.1564.TO.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1086,2012,52.4019521127,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1087,2013,52.5350967963,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1088,2014,52.6823554057,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1089,2015,52.8426164747,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1090,2016,52.9075405186,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1091,2017,53.0073097612,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1092,2018,53.1412740001,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1093,2019,53.3119564375,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1094,2020,53.518563576,SP.POP.1564.TO.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1095,2012,58.2163295373,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1096,2013,58.3993585302,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1097,2014,58.5948936459,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1098,2015,58.8044901102,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1099,2016,58.9466028391,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1100,2017,59.1301639529,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1101,2018,59.335040408,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1102,2019,59.5378056889,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1103,2020,59.7284936668,SP.POP.1564.TO.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1104,2012,51.2440209759,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1105,2013,51.5242567648,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1106,2014,51.8103697056,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1107,2015,52.0865217273,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1108,2016,52.4657345544,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1109,2017,52.8448142489,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1110,2018,53.223804207,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1111,2019,53.6081052702,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1112,2020,53.9987260899,SP.POP.1564.TO.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1113,2012,54.3117386583,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1114,2013,54.4244670879,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1115,2014,54.5381600615,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1116,2015,54.6510998721,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1117,2016,54.683753376,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1118,2017,54.742375468,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1119,2018,54.8371314563,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1120,2019,54.9830758355,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1121,2020,55.1870146407,SP.POP.1564.TO.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1122,2012,55.1783625759,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1123,2013,55.5814203877,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1124,2014,56.0138783562,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1125,2015,56.4557151694,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1126,2016,56.9216999411,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1127,2017,57.3938820427,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1128,2018,57.878646454,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1129,2019,58.3827990325,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1130,2020,58.9012100434,SP.POP.1564.TO.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1131,2012,60.8358635311,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1132,2013,61.0835925522,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1133,2014,61.406644172,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1134,2015,61.7959214598,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1135,2016,61.9357792417,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1136,2017,62.1459655927,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1137,2018,62.3825609677,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1138,2019,62.6072570612,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1139,2020,62.8131463709,SP.POP.1564.TO.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1140,2012,53.8840605572,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1141,2013,54.1217804438,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1142,2014,54.410270338,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1143,2015,54.7322253104,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1144,2016,55.0003302966,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1145,2017,55.2985756108,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1146,2018,55.6215816109,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1147,2019,55.9613875716,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1148,2020,56.3093046003,SP.POP.1564.TO.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1149,2012,54.3521052042,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1150,2013,54.7632479148,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1151,2014,55.1611436222,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1152,2015,55.5225680455,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1153,2016,55.8271207506,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1154,2017,56.0975040312,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1155,2018,56.3451322814,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1156,2019,56.5890958933,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1157,2020,56.8367656256,SP.POP.1564.TO.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1158,2012,51.3105436699,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1159,2013,51.6032162056,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1160,2014,51.9308204425,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1161,2015,52.2759546364,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1162,2016,52.668977239,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1163,2017,53.0541087377,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1164,2018,53.4522791631,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1165,2019,53.8892873471,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1166,2020,54.3663988284,SP.POP.1564.TO.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1167,2012,49.4677804607,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1168,2013,49.4372533641,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1169,2014,49.4580616496,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1170,2015,49.5209756096,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1171,2016,49.6235801143,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1172,2017,49.7622678384,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1173,2018,49.9492838489,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1174,2019,50.2001751854,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1175,2020,50.5155466938,SP.POP.1564.TO.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1176,2012,55.8823489736,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1177,2013,56.0327534241,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1178,2014,56.1962209125,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1179,2015,56.3763793153,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1180,2016,56.4674280233,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1181,2017,56.606733807,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1182,2018,56.7757050203,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1183,2019,56.954841863,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1184,2020,57.1370410469,SP.POP.1564.TO.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1185,2012,70.7749894694,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1186,2013,70.751092037,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1187,2014,70.6938772264,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1188,2015,70.6456597134,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1189,2016,70.6552602695,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1190,2017,70.6909218592,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1191,2018,70.7321346133,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1192,2019,70.7415639364,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1193,2020,70.6951267841,SP.POP.1564.TO.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1194,2012,51.2816808368,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1195,2013,51.3547311103,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1196,2014,51.4865885286,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1197,2015,51.6799052082,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1198,2016,51.8846754168,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1199,2017,52.142206061,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1200,2018,52.4384353894,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1201,2019,52.7535533449,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1202,2020,53.0753867287,SP.POP.1564.TO.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1203,2012,58.8353837259,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1204,2013,59.0733053116,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1205,2014,59.2538212202,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1206,2015,59.3534764293,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1207,2016,59.4236155051,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1208,2017,59.4485716295,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1209,2018,59.4537191301,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1210,2019,59.4860354456,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1211,2020,59.572908078,SP.POP.1564.TO.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1212,2012,47.2137277391,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1213,2013,47.1834436583,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1214,2014,47.2003560882,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1215,2015,47.2592553929,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1216,2016,47.2583696277,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1217,2017,47.3163561315,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1218,2018,47.4206675079,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1219,2019,47.5611194251,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1220,2020,47.7319491293,SP.POP.1564.TO.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1221,2012,53.0525245551,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1222,2013,53.0245703837,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1223,2014,53.0508239639,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1224,2015,53.1339477632,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1225,2016,53.1479516635,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1226,2017,53.2377460929,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1227,2018,53.3859830165,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1228,2019,53.5693864639,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1229,2020,53.7743252219,SP.POP.1564.TO.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1230,2012,56.1731913397,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1231,2013,56.3891557334,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1232,2014,56.5815260885,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1233,2015,56.7196299504,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1234,2016,56.9103561138,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1235,2017,57.0141076329,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1236,2018,57.0862309045,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1237,2019,57.2057147609,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1238,2020,57.4064611945,SP.POP.1564.TO.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1239,2012,53.6087344218,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1240,2013,53.5965473978,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1241,2014,53.6441063318,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1242,2015,53.7802358699,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1243,2016,53.9756036353,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1244,2017,54.2375500389,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1245,2018,54.5543719317,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1246,2019,54.8931441113,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1247,2020,55.2338712989,SP.POP.1564.TO.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1248,2012,53.3285947343,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1249,2013,53.3621444239,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1250,2014,53.4072197026,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1251,2015,53.4647935012,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1252,2016,53.5572536374,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1253,2017,53.689145881900004,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1254,2018,53.8577459284,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1255,2019,54.0616544893,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1256,2020,54.3002904874,SP.POP.1564.TO.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1257,2012,69.7364016285,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1258,2013,69.7724717597,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1259,2014,69.7054609139,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1260,2015,69.5540019794,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1261,2016,69.3668373211,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1262,2017,69.0918708125,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1263,2018,68.7700832166,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1264,2019,68.4557853058,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1265,2020,68.166797157,SP.POP.1564.TO.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1266,2012,54.2362076959,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1267,2013,54.4913804394,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1268,2014,54.781899997,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1269,2015,55.0982764155,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1270,2016,55.373337696,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1271,2017,55.6615992446,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1272,2018,55.9738044352,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1273,2019,56.3279520658,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1274,2020,56.7290415437,SP.POP.1564.TO.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1275,2012,49.3066613252,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1276,2013,49.5450255636,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1277,2014,49.7994273952,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1278,2015,50.0333002324,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1279,2016,50.2277444593,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1280,2017,50.3933360472,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1281,2018,50.5501049891,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1282,2019,50.7312905182,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1283,2020,50.9479575633,SP.POP.1564.TO.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1284,2012,65.6277183707,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1285,2013,65.6756599036,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1286,2014,65.6950110136,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1287,2015,65.6794387687,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1288,2016,65.6644204598,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1289,2017,65.6305615481,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1290,2018,65.6025058469,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1291,2019,65.6164193375,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1292,2020,65.6894360675,SP.POP.1564.TO.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1293,2012,53.3634101796,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1294,2013,53.5568252546,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1295,2014,53.8021938667,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1296,2015,54.1025572111,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1297,2016,54.3033115662,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1298,2017,54.5274056452,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1299,2018,54.7813956853,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1300,2019,55.055141816,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1301,2020,55.3194579999,SP.POP.1564.TO.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1302,2012,54.1807856891,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1303,2013,54.450926629,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1304,2014,54.7443253145,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1305,2015,55.0522723855,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1306,2016,55.3223658866,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1307,2017,55.6101688865,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1308,2018,55.9100476052,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1309,2019,56.2169766276,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1310,2020,56.5265115078,SP.POP.1564.TO.ZS,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1311,2012,52.6085057647,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1312,2013,52.6247161152,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1313,2014,52.6793904496,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1314,2015,52.7799559125,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1315,2016,52.9287229994,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1316,2017,53.0998902147,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1317,2018,53.3004626711,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1318,2019,53.535652323,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1319,2020,53.8019833121,SP.POP.1564.TO.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1320,2012,54.5698439386,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1321,2013,54.6873332967,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1322,2014,54.8519473242,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1323,2015,55.0613273672,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1324,2016,55.2670183867,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1325,2017,55.5121963132,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1326,2018,55.7960084892,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1327,2019,56.1142987091,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1328,2020,56.4586402446,SP.POP.1564.TO.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1329,2012,49.3886489493,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1330,2013,49.6142194828,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1331,2014,49.863716,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1332,2015,50.1296426755,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1333,2016,50.4247680771,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1334,2017,50.7597569174,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1335,2018,51.1284878976,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1336,2019,51.5374344748,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1337,2020,51.9984179622,SP.POP.1564.TO.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1338,2012,50.9649329596,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1339,2013,51.1662780078,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1340,2014,51.4266819777,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1341,2015,51.7587640964,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1342,2016,52.0909700138,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1343,2017,52.5038242574,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1344,2018,52.9641808172,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1345,2019,53.4221766606,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1346,2020,53.8505887335,SP.POP.1564.TO.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1347,2012,55.0128210505,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1348,2013,54.8395164689,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1349,2014,54.6926124189,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1350,2015,54.6034569586,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1351,2016,54.4731339553,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1352,2017,54.5059405005,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1353,2018,54.659410109,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1354,2019,54.8612649319,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1355,2020,55.0747215016,SP.POP.1564.TO.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1356,2012,3972550.0,SP.POP.1524.TO.UN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1357,2013,4067194.0,SP.POP.1524.TO.UN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1358,2014,4162115.0,SP.POP.1524.TO.UN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1359,2015,4259352.0,SP.POP.1524.TO.UN,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1360,2012,2095734.0,SP.POP.1524.TO.UN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1361,2013,2150322.0,SP.POP.1524.TO.UN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1362,2014,2206224.0,SP.POP.1524.TO.UN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1363,2015,2263486.0,SP.POP.1524.TO.UN,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1364,2012,436857.0,SP.POP.1524.TO.UN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1365,2013,435338.0,SP.POP.1524.TO.UN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1366,2014,433439.0,SP.POP.1524.TO.UN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1367,2015,431236.0,SP.POP.1524.TO.UN,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1368,2012,3467635.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1369,2013,3571202.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1370,2014,3676117.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1371,2015,3781805.0,SP.POP.1524.TO.UN,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1372,2012,2042759.0,SP.POP.1524.TO.UN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1373,2013,2054779.0,SP.POP.1524.TO.UN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1374,2014,2068163.0,SP.POP.1524.TO.UN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1375,2015,2087945.0,SP.POP.1524.TO.UN,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1376,2012,123729.0,SP.POP.1524.TO.UN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1377,2013,123674.0,SP.POP.1524.TO.UN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1378,2014,123739.0,SP.POP.1524.TO.UN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1379,2015,124102.0,SP.POP.1524.TO.UN,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1380,2012,4262499.0,SP.POP.1524.TO.UN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1381,2013,4315492.0,SP.POP.1524.TO.UN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1382,2014,4371704.0,SP.POP.1524.TO.UN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1383,2015,4434948.0,SP.POP.1524.TO.UN,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1384,2012,1020017.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1385,2013,1040606.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1386,2014,1060059.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1387,2015,1078382.0,SP.POP.1524.TO.UN,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1388,2012,2447666.0,SP.POP.1524.TO.UN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1389,2013,2523758.0,SP.POP.1524.TO.UN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1390,2014,2602759.0,SP.POP.1524.TO.UN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1391,2015,2684724.0,SP.POP.1524.TO.UN,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1392,2012,186055.0,SP.POP.1524.TO.UN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1393,2013,190743.0,SP.POP.1524.TO.UN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1394,2014,195750.0,SP.POP.1524.TO.UN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1395,2015,200926.0,SP.POP.1524.TO.UN,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1396,2012,14199663.0,SP.POP.1524.TO.UN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1397,2013,14617587.0,SP.POP.1524.TO.UN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1398,2014,15060562.0,SP.POP.1524.TO.UN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1399,2015,15535095.0,SP.POP.1524.TO.UN,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1400,2012,844239.0,SP.POP.1524.TO.UN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1401,2013,865030.0,SP.POP.1524.TO.UN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1402,2014,886747.0,SP.POP.1524.TO.UN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1403,2015,909163.0,SP.POP.1524.TO.UN,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1404,2012,4580206.0,SP.POP.1524.TO.UN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1405,2013,4647775.0,SP.POP.1524.TO.UN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1406,2014,4712687.0,SP.POP.1524.TO.UN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1407,2015,4774821.0,SP.POP.1524.TO.UN,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1408,2012,111982.0,SP.POP.1524.TO.UN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1409,2013,115086.0,SP.POP.1524.TO.UN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1410,2014,118198.0,SP.POP.1524.TO.UN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1411,2015,121299.0,SP.POP.1524.TO.UN,GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,IBRD
+1412,2012,1094457.0,SP.POP.1524.TO.UN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+1413,2013,1115546.0,SP.POP.1524.TO.UN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+1414,2014,1139904.0,SP.POP.1524.TO.UN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+1415,2015,1168307.0,SP.POP.1524.TO.UN,ERI,Eritrea,Sub-Saharan Africa ,Low income,IDA
+1416,2012,295034.0,SP.POP.1524.TO.UN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1417,2013,293631.0,SP.POP.1524.TO.UN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1418,2014,291511.0,SP.POP.1524.TO.UN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1419,2015,288896.0,SP.POP.1524.TO.UN,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1420,2012,19552701.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1421,2013,20080973.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1422,2014,20589585.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1423,2015,21074230.0,SP.POP.1524.TO.UN,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1424,2012,298228.0,SP.POP.1524.TO.UN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1425,2013,299167.0,SP.POP.1524.TO.UN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1426,2014,299632.0,SP.POP.1524.TO.UN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1427,2015,299860.0,SP.POP.1524.TO.UN,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1428,2012,371543.0,SP.POP.1524.TO.UN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1429,2013,383072.0,SP.POP.1524.TO.UN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1430,2014,394608.0,SP.POP.1524.TO.UN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1431,2015,406035.0,SP.POP.1524.TO.UN,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1432,2012,5313892.0,SP.POP.1524.TO.UN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1433,2013,5370843.0,SP.POP.1524.TO.UN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1434,2014,5426775.0,SP.POP.1524.TO.UN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1435,2015,5484325.0,SP.POP.1524.TO.UN,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1436,2012,2086513.0,SP.POP.1524.TO.UN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1437,2013,2144265.0,SP.POP.1524.TO.UN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1438,2014,2204227.0,SP.POP.1524.TO.UN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1439,2015,2265841.0,SP.POP.1524.TO.UN,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1440,2012,378706.0,SP.POP.1524.TO.UN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1441,2013,392256.0,SP.POP.1524.TO.UN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1442,2014,406267.0,SP.POP.1524.TO.UN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1443,2015,420687.0,SP.POP.1524.TO.UN,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1444,2012,8502621.0,SP.POP.1524.TO.UN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1445,2013,8603243.0,SP.POP.1524.TO.UN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1446,2014,8733902.0,SP.POP.1524.TO.UN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1447,2015,8902971.0,SP.POP.1524.TO.UN,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1448,2012,489007.0,SP.POP.1524.TO.UN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1449,2013,490907.0,SP.POP.1524.TO.UN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1450,2014,492523.0,SP.POP.1524.TO.UN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1451,2015,493814.0,SP.POP.1524.TO.UN,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1452,2012,896464.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1453,2013,921602.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1454,2014,948299.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1455,2015,978071.0,SP.POP.1524.TO.UN,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1456,2012,4533157.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1457,2013,4672640.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1458,2014,4810623.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1459,2015,4945440.0,SP.POP.1524.TO.UN,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1460,2012,3343706.0,SP.POP.1524.TO.UN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1461,2013,3475798.0,SP.POP.1524.TO.UN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1462,2014,3606438.0,SP.POP.1524.TO.UN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1463,2015,3731894.0,SP.POP.1524.TO.UN,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1464,2012,2935584.0,SP.POP.1524.TO.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1465,2013,3031421.0,SP.POP.1524.TO.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1466,2014,3127571.0,SP.POP.1524.TO.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1467,2015,3222526.0,SP.POP.1524.TO.UN,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1468,2012,689813.0,SP.POP.1524.TO.UN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1469,2013,705347.0,SP.POP.1524.TO.UN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1470,2014,721272.0,SP.POP.1524.TO.UN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1471,2015,737608.0,SP.POP.1524.TO.UN,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1472,2012,206481.0,SP.POP.1524.TO.UN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1473,2013,207519.0,SP.POP.1524.TO.UN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1474,2014,207826.0,SP.POP.1524.TO.UN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1475,2015,207202.0,SP.POP.1524.TO.UN,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1476,2012,4830831.0,SP.POP.1524.TO.UN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1477,2013,4955417.0,SP.POP.1524.TO.UN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1478,2014,5087952.0,SP.POP.1524.TO.UN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1479,2015,5230426.0,SP.POP.1524.TO.UN,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1480,2012,531779.0,SP.POP.1524.TO.UN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1481,2013,534002.0,SP.POP.1524.TO.UN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1482,2014,533649.0,SP.POP.1524.TO.UN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1483,2015,531041.0,SP.POP.1524.TO.UN,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1484,2012,3073893.0,SP.POP.1524.TO.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1485,2013,3203398.0,SP.POP.1524.TO.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1486,2014,3338384.0,SP.POP.1524.TO.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1487,2015,3478812.0,SP.POP.1524.TO.UN,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1488,2012,34342138.0,SP.POP.1524.TO.UN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1489,2013,35116233.0,SP.POP.1524.TO.UN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1490,2014,35887772.0,SP.POP.1524.TO.UN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1491,2015,36659023.0,SP.POP.1524.TO.UN,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1492,2012,2369311.0,SP.POP.1524.TO.UN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1493,2013,2346101.0,SP.POP.1524.TO.UN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1494,2014,2330111.0,SP.POP.1524.TO.UN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1495,2015,2327612.0,SP.POP.1524.TO.UN,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1496,2012,35942.0,SP.POP.1524.TO.UN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1497,2013,36682.0,SP.POP.1524.TO.UN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1498,2014,37480.0,SP.POP.1524.TO.UN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1499,2015,38279.0,SP.POP.1524.TO.UN,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1500,2012,2843635.0,SP.POP.1524.TO.UN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1501,2013,2896689.0,SP.POP.1524.TO.UN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1502,2014,2951554.0,SP.POP.1524.TO.UN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1503,2015,3009775.0,SP.POP.1524.TO.UN,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1504,2012,1228339.0,SP.POP.1524.TO.UN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1505,2013,1257448.0,SP.POP.1524.TO.UN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1506,2014,1288673.0,SP.POP.1524.TO.UN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1507,2015,1321852.0,SP.POP.1524.TO.UN,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1508,2012,1880835.0,SP.POP.1524.TO.UN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1509,2013,1947671.0,SP.POP.1524.TO.UN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1510,2014,2019132.0,SP.POP.1524.TO.UN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1511,2015,2094687.0,SP.POP.1524.TO.UN,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1512,2012,9881207.0,SP.POP.1524.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1513,2013,9925487.0,SP.POP.1524.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1514,2014,9965374.0,SP.POP.1524.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1515,2015,9998431.0,SP.POP.1524.TO.UN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1516,2012,8785456.0,SP.POP.1524.TO.UN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1517,2013,8993436.0,SP.POP.1524.TO.UN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1518,2014,9193550.0,SP.POP.1524.TO.UN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1519,2015,9381489.0,SP.POP.1524.TO.UN,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+1520,2012,9140126.0,SP.POP.1524.TO.UN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1521,2013,9347243.0,SP.POP.1524.TO.UN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1522,2014,9581243.0,SP.POP.1524.TO.UN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1523,2015,9849521.0,SP.POP.1524.TO.UN,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1524,2012,1530187.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1525,2013,1568429.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1526,2014,1607464.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1527,2015,1647427.0,SP.POP.1524.TO.UN,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1528,2012,7503803.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1529,2013,7746494.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1530,2014,7992920.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1531,2015,8244246.0,SP.POP.1524.TO.UN,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1532,2012,2854607.0,SP.POP.1524.TO.UN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1533,2013,2924614.0,SP.POP.1524.TO.UN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1534,2014,2995938.0,SP.POP.1524.TO.UN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1535,2015,3068044.0,SP.POP.1524.TO.UN,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1536,2012,3383141.0,SP.POP.1524.TO.UN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1537,2013,3371070.0,SP.POP.1524.TO.UN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1538,2014,3354236.0,SP.POP.1524.TO.UN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1539,2015,3333716.0,SP.POP.1524.TO.UN,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1540,2012,9.864780426,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1541,2013,9.6935596466,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1542,2014,7.1322999001,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1543,2015,8.9187803268,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1544,2016,6.5509700775,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1545,2017,6.763780117,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1546,2018,5.4102301598,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1547,2019,6.0453600883,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1548,2020,6.4672298431,SE.XPD.TOTL.GB.ZS,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+1549,2012,25.0213108063,SE.XPD.TOTL.GB.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1550,2013,22.3412208557,SE.XPD.TOTL.GB.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1551,2014,22.2277107239,SE.XPD.TOTL.GB.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1552,2015,17.4795207977,SE.XPD.TOTL.GB.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1553,2016,18.7914009094,SE.XPD.TOTL.GB.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1554,2017,19.879650116,SE.XPD.TOTL.GB.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1555,2018,17.7091808319,SE.XPD.TOTL.GB.ZS,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+1556,2015,17.5282592773,SE.XPD.TOTL.GB.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1557,2016,16.5035896301,SE.XPD.TOTL.GB.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1558,2017,22.2000007629,SE.XPD.TOTL.GB.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1559,2018,15.608710289,SE.XPD.TOTL.GB.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1560,2019,15.3527202606,SE.XPD.TOTL.GB.ZS,BWA,Botswana,Sub-Saharan Africa ,Upper middle income,IBRD
+1561,2012,15.8953800201,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1562,2013,16.1652793884,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1563,2014,19.3681106567,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1564,2015,18.0270805359,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1565,2017,21.4440002441,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1566,2018,22.6611690521,SE.XPD.TOTL.GB.ZS,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1567,2012,16.428319931,SE.XPD.TOTL.GB.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1568,2013,17.2432594299,SE.XPD.TOTL.GB.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1569,2014,23.8400001526,SE.XPD.TOTL.GB.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1570,2015,27.4972400665,SE.XPD.TOTL.GB.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1571,2016,20.7846107483,SE.XPD.TOTL.GB.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1572,2017,19.7648506165,SE.XPD.TOTL.GB.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1573,2018,18.7934303284,SE.XPD.TOTL.GB.ZS,BDI,Burundi,Sub-Saharan Africa ,Low income,IDA
+1574,2013,14.7782297134,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1575,2014,16.2821903229,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1576,2015,16.7482299805,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1577,2016,17.8430099487,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1578,2017,16.4125804901,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1579,2018,17.5685405731,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1580,2019,15.1536998749,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1581,2020,17.0901908875,SE.XPD.TOTL.GB.ZS,CPV,Cabo Verde,Sub-Saharan Africa ,Lower middle income,Blend
+1582,2012,15.1762199402,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1583,2013,13.8249502182,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1584,2014,12.8797597885,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1585,2015,13.243989944500001,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1586,2016,12.6946897507,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1587,2017,15.9128103256,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1588,2018,16.8831596375,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1589,2019,14.0946702957,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1590,2020,14.3899097443,SE.XPD.TOTL.GB.ZS,CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,Blend
+1591,2015,8.3867397308,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1592,2016,7.3190197945,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1593,2017,8.8950500488,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1594,2018,9.1354999542,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1595,2019,9.7978096008,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1596,2020,9.7824401855,SE.XPD.TOTL.GB.ZS,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+1597,2012,9.2124099731,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1598,2013,12.4614601135,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1599,2014,9.8999996185,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1600,2015,8.8999996185,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1601,2016,13.0,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1602,2017,16.3627490997,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1603,2019,14.2137899399,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1604,2020,11.6715097427,SE.XPD.TOTL.GB.ZS,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+1605,2012,18.4915103912,SE.XPD.TOTL.GB.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1606,2013,16.0707302094,SE.XPD.TOTL.GB.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1607,2014,18.8895301819,SE.XPD.TOTL.GB.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1608,2015,13.3521795273,SE.XPD.TOTL.GB.ZS,COM,Comoros,Sub-Saharan Africa ,Lower middle income,IDA
+1609,2013,16.1747398376,SE.XPD.TOTL.GB.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1610,2014,10.5539197922,SE.XPD.TOTL.GB.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1611,2015,11.7383699417,SE.XPD.TOTL.GB.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1612,2016,14.6354198456,SE.XPD.TOTL.GB.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1613,2017,14.0064201355,SE.XPD.TOTL.GB.ZS,COD,"Congo, Dem. Rep.",Sub-Saharan Africa ,Low income,IDA
+1614,2014,6.5559201241,SE.XPD.TOTL.GB.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1615,2015,7.9503998756000005,SE.XPD.TOTL.GB.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1616,2016,11.372300148,SE.XPD.TOTL.GB.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1617,2017,15.6857700348,SE.XPD.TOTL.GB.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1618,2018,15.5827999115,SE.XPD.TOTL.GB.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1619,2019,16.6643295288,SE.XPD.TOTL.GB.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1620,2020,17.0830593109,SE.XPD.TOTL.GB.ZS,COG,"Congo, Rep.",Sub-Saharan Africa ,Lower middle income,Blend
+1621,2012,20.8587608337,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1622,2013,21.5747299194,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1623,2014,21.7667808533,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1624,2015,21.1732196808,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1625,2016,22.3875999451,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1626,2017,20.6334991455,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1627,2018,18.2890892029,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1628,2019,17.3795795441,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1629,2020,15.0821800232,SE.XPD.TOTL.GB.ZS,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+1630,2014,24.7954406738,SE.XPD.TOTL.GB.ZS,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+1631,2012,30.5395393372,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1632,2013,27.0210990906,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1633,2014,25.9183807373,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1634,2015,27.0987091064,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1635,2016,23.0133590698,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1636,2017,26.5099201202,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1637,2018,24.0015506744,SE.XPD.TOTL.GB.ZS,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+1638,2012,12.5822696686,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1639,2013,8.737569809,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1640,2014,11.2254896164,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1641,2015,6.9529500008,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1642,2016,10.2796401978,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1643,2017,16.0584392548,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1644,2018,14.6950798035,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1645,2019,14.1593904495,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1646,2020,15.0255203247,SE.XPD.TOTL.GB.ZS,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+1647,2012,13.795530319200001,SE.XPD.TOTL.GB.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1648,2013,10.2887601852,SE.XPD.TOTL.GB.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1649,2014,11.7523202896,SE.XPD.TOTL.GB.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1650,2015,11.0329303741,SE.XPD.TOTL.GB.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1651,2016,10.3577899933,SE.XPD.TOTL.GB.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1652,2018,11.1882696152,SE.XPD.TOTL.GB.ZS,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+1653,2012,37.5209617615,SE.XPD.TOTL.GB.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1654,2013,21.2222099304,SE.XPD.TOTL.GB.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1655,2014,20.9851398468,SE.XPD.TOTL.GB.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1656,2015,23.8087997437,SE.XPD.TOTL.GB.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1657,2016,22.0933208466,SE.XPD.TOTL.GB.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1658,2017,20.0976390839,SE.XPD.TOTL.GB.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1659,2018,18.5981693268,SE.XPD.TOTL.GB.ZS,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+1660,2012,9.4606103897,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1661,2013,14.132809639,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1662,2014,11.9895095825,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1663,2015,11.5987796783,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1664,2016,15.7688598633,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1665,2017,13.3767900467,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1666,2018,14.8701200485,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1667,2019,12.4053602219,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1668,2020,12.2907600403,SE.XPD.TOTL.GB.ZS,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+1669,2012,14.5397996902,SE.XPD.TOTL.GB.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1670,2013,16.1913795471,SE.XPD.TOTL.GB.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1671,2014,13.0,SE.XPD.TOTL.GB.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1672,2015,13.0,SE.XPD.TOTL.GB.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1673,2016,10.0,SE.XPD.TOTL.GB.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1674,2017,15.0,SE.XPD.TOTL.GB.ZS,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+1675,2012,19.9239006042,SE.XPD.TOTL.GB.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1676,2013,19.1356906891,SE.XPD.TOTL.GB.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1677,2014,17.081029892,SE.XPD.TOTL.GB.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1678,2015,16.6646595001,SE.XPD.TOTL.GB.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1679,2016,17.3545703888,SE.XPD.TOTL.GB.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1680,2017,17.7087001801,SE.XPD.TOTL.GB.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1681,2018,19.0351905823,SE.XPD.TOTL.GB.ZS,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+1682,2012,17.4309005737,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1683,2013,19.3068008423,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1684,2014,18.0970993042,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1685,2015,14.0,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1686,2016,13.9976396561,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1687,2017,15.1153097153,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1688,2018,14.1297998428,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1689,2019,13.1358604431,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1690,2020,13.7912197113,SE.XPD.TOTL.GB.ZS,LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,IDA
+1691,2012,5.1843400002,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1692,2013,4.6732702255,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1693,2014,6.8934898376,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1694,2017,8.3419399261,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1695,2018,8.1477899551,SE.XPD.TOTL.GB.ZS,LBR,Liberia,Sub-Saharan Africa ,Low income,IDA
+1696,2012,20.325799942,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1697,2013,13.9893798828,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1698,2014,18.9667701721,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1699,2015,16.9629096985,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1700,2016,19.838180542,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1701,2017,15.8376998901,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1702,2018,19.8180408478,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1703,2019,16.4410991669,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1704,2020,14.3206396103,SE.XPD.TOTL.GB.ZS,MDG,Madagascar,Sub-Saharan Africa ,Low income,IDA
+1705,2013,20.4968299866,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1706,2014,16.5964698792,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1707,2015,21.7978992462,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1708,2016,17.1988105774,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1709,2017,14.344420433,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1710,2018,15.8293504715,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1711,2019,14.5902395248,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1712,2020,11.4976501465,SE.XPD.TOTL.GB.ZS,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+1713,2012,22.4033794403,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1714,2013,16.6234493256,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1715,2014,18.2242603302,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1716,2015,18.1554908752,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1717,2016,13.9038801193,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1718,2017,16.534330368,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1719,2018,15.888420105,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1720,2019,14.6360197067,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1721,2020,14.4661197662,SE.XPD.TOTL.GB.ZS,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+1722,2012,10.017660141,SE.XPD.TOTL.GB.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1723,2013,11.4054298401,SE.XPD.TOTL.GB.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1724,2016,9.3306102753,SE.XPD.TOTL.GB.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1725,2019,10.2280197144,SE.XPD.TOTL.GB.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1726,2020,9.745059967,SE.XPD.TOTL.GB.ZS,MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,IDA
+1727,2012,14.9606199265,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1728,2013,14.7890100479,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1729,2014,20.9051799774,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1730,2015,19.4570903778,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1731,2016,19.9624996185,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1732,2017,20.3572006226,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1733,2018,19.2743301392,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1734,2019,18.6769294739,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1735,2020,16.1177597046,SE.XPD.TOTL.GB.ZS,MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,IBRD
+1736,2012,19.7018203735,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1737,2013,18.9780902863,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1738,2014,17.8321990967,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1739,2015,19.8523406982,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1740,2016,19.9460105896,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1741,2017,18.365190506,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1742,2018,16.7215690613,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1743,2019,19.0336799622,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1744,2020,17.9349308014,SE.XPD.TOTL.GB.ZS,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+1745,2012,22.7479000092,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1746,2013,24.0559005737,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1747,2014,22.095500946,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1748,2015,22.5713291168,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1749,2016,23.9391994476,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1750,2017,24.674030304,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1751,2018,23.324300766,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1752,2019,26.3903999329,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1753,2020,24.9413795471,SE.XPD.TOTL.GB.ZS,NAM,Namibia,Sub-Saharan Africa ,Upper middle income,IBRD
+1754,2012,19.1920204163,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1755,2013,18.0767002106,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1756,2014,21.6615009308,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1757,2015,18.5121898651,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1758,2016,15.3471603394,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1759,2017,13.2151603699,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1760,2018,16.339969635,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1761,2019,13.0128097534,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1762,2020,13.3325395584,SE.XPD.TOTL.GB.ZS,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+1763,2015,11.0468597412,SE.XPD.TOTL.GB.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1764,2016,7.9580798149,SE.XPD.TOTL.GB.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1765,2017,6.1201100349,SE.XPD.TOTL.GB.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1766,2018,7.0341300964,SE.XPD.TOTL.GB.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1767,2019,7.0298900604,SE.XPD.TOTL.GB.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1768,2020,5.6210398674,SE.XPD.TOTL.GB.ZS,NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,Blend
+1769,2012,15.8154697418,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1770,2013,16.8596305847,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1771,2014,13.7343196869,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1772,2015,12.539050102200001,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1773,2016,12.2783899307,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1774,2017,11.0796098709,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1775,2018,10.8046102524,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1776,2019,10.7618303299,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1777,2020,10.7831897736,SE.XPD.TOTL.GB.ZS,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+1778,2012,13.721619606,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1779,2013,18.8296699524,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1780,2014,12.324669838,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1781,2015,11.2973403931,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1782,2016,15.9666795731,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1783,2017,18.3999996185,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1784,2018,20.1165409088,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1785,2019,17.5924491882,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1786,2020,16.1259403229,SE.XPD.TOTL.GB.ZS,STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,IDA
+1787,2012,20.795249939,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1788,2013,25.7423496246,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1789,2014,24.762960434,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1790,2015,23.7782707214,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1791,2016,21.3373699188,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1792,2017,20.5892601013,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1793,2018,21.5420207977,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1794,2019,18.3122692108,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1795,2020,22.0627803802,SE.XPD.TOTL.GB.ZS,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+1796,2012,6.7712001801,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1797,2013,9.547659874,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1798,2014,12.0845804214,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1799,2015,12.586979866,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1800,2016,11.7234296799,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1801,2017,10.2598304749,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1802,2018,11.8271799088,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1803,2019,11.1305599213,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1804,2020,9.168009758,SE.XPD.TOTL.GB.ZS,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+1805,2012,14.12596035,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1806,2013,15.2023096085,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1807,2014,15.0917396545,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1808,2016,12.4735803604,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1809,2017,19.8941001892,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1810,2018,32.7278289795,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1811,2019,35.0058288574,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1812,2020,34.3272514343,SE.XPD.TOTL.GB.ZS,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+1813,2015,1.4211299419,SE.XPD.TOTL.GB.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1814,2016,1.3148399591,SE.XPD.TOTL.GB.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1815,2017,1.7046899796,SE.XPD.TOTL.GB.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1816,2018,3.0024800301,SE.XPD.TOTL.GB.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1817,2019,4.2624502182,SE.XPD.TOTL.GB.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1818,2020,4.4123802185,SE.XPD.TOTL.GB.ZS,SOM,Somalia,Sub-Saharan Africa ,Low income,IDA
+1819,2012,19.6827106476,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1820,2013,18.6965999603,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1821,2014,18.9891605377,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1822,2015,18.6993503571,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1823,2016,18.048740387,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1824,2017,18.7192897797,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1825,2018,18.9015903473,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1826,2019,19.5962295532,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1827,2020,19.5272808075,SE.XPD.TOTL.GB.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+1828,2013,3.2280199528,SE.XPD.TOTL.GB.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1829,2014,4.131360054,SE.XPD.TOTL.GB.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1830,2015,3.2846000195,SE.XPD.TOTL.GB.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1831,2016,0.8333600163,SE.XPD.TOTL.GB.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1832,2017,1.0736999512,SE.XPD.TOTL.GB.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1833,2018,0.8670300245,SE.XPD.TOTL.GB.ZS,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+1834,2014,17.2971000671,SE.XPD.TOTL.GB.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1835,2017,24.3965396881,SE.XPD.TOTL.GB.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1836,2018,20.504940033,SE.XPD.TOTL.GB.ZS,TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,IDA
+1837,2012,17.6804294586,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1838,2013,16.5920696259,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1839,2014,17.3914108276,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1840,2015,16.6649894714,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1841,2016,15.9913101196,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1842,2017,23.140039444,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1843,2018,21.7690906525,SE.XPD.TOTL.GB.ZS,TGO,Togo,Sub-Saharan Africa ,Low income,IDA
+1844,2012,11.4518995285,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1845,2013,11.7431201935,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1846,2014,11.7049102783,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1847,2015,13.2200803757,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1848,2016,11.7420501709,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1849,2017,12.8418197632,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1850,2018,11.247179985,SE.XPD.TOTL.GB.ZS,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+1851,2012,17.2000007629,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1852,2013,15.3999996185,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1853,2014,20.1000003815,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1854,2015,16.3355998993,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1855,2016,15.402970314000001,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1856,2017,14.8818302155,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1857,2018,17.012430191,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1858,2019,15.2918701172,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1859,2020,12.3780202866,SE.XPD.TOTL.GB.ZS,ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,IDA
+1860,2012,29.7510890961,SE.XPD.TOTL.GB.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1861,2013,28.6603393555,SE.XPD.TOTL.GB.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1862,2014,30.0151500702,SE.XPD.TOTL.GB.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1863,2015,29.4708309174,SE.XPD.TOTL.GB.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1864,2016,23.5270805359,SE.XPD.TOTL.GB.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1865,2017,20.8742008209,SE.XPD.TOTL.GB.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+1866,2018,19.0398406982,SE.XPD.TOTL.GB.ZS,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
